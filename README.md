@@ -1,6 +1,6 @@
-# Projeto sistema de Calendário e Relógio
+# 🕒 Projeto sistema de calendário e relógio 🕒
 
-💻 Este seguinte projeto é uma atividade de programação de desenvolvimeto de sistemas, de um sistema de consulta de um calendário e relógio com data e horário atual.  💻
+💻 📅 Este seguinte projeto é uma atividade de programação de desenvolvimeto de sistemas, de um sistema de consulta de um calendário e relógio digtal com data e horário atual.  💻 📅
 
 ----------------------------------------------------------------------------
 
